@@ -1,0 +1,5 @@
+age name wage
+12 bobby 24.5
+24 kate 36.3
+NA james 42.0
+35 david 18.5
