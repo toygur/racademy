@@ -11,9 +11,8 @@ install.RMetrics <- function(){
 
 install.tidyPack <- function(){
   
-  install.packages(c("magrittr","lubridate",
-                     "tidyverse",
-                     "tidyquant","tibbletime","timetk",
+  install.packages(c("tidyverse",
+                     "magrittr","lubridate",
                      "readxl","haven","jsonlite","xml2","httr","rvest"))
   
 }
